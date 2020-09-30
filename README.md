@@ -1,2 +1,2 @@
 # App-CarList
-App movil que insertar elementos a una lista y los muestra 
+App movil que inserta objetos a una lista y los muestra 
