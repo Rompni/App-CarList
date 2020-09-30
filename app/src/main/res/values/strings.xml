@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">App-CarList</string>
+    <string name="carInsert">Insertar Carros</string>
+    <string name="Model">Modelo</string>
+    <string name="age">2020</string>
+    <string name="plateexample">ASD123</string>
+    <string name="brandExample">Renault</string>
+    <string name="btninsert">Insertar</string>
+    <string name="model">Modelo</string>
+    <string name="brand">Marca</string>
+    <string name="plate">Placa</string>
+</resources>
